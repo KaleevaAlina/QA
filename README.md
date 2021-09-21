@@ -1,2 +1,2 @@
 # QA
-at https://kaleevaalina.github.io/QA/
+https://kaleevaalina.github.io/QA/
